@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CreditWise Loan Approval Prediction System
 
 ## Overview
@@ -81,3 +82,6 @@ creeditwise_loan_system.ipynb
 ## Author
 
 Tanvi Kumari
+=======
+# CREDITWISE_LOAN_SYSTEM
+>>>>>>> e105b930dfca6ce601906b5241e7a0e61c6b5810
